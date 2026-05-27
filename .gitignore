@@ -20,3 +20,6 @@
 # Go workspace file
 go.work
 go.work.sum
+awscliv2.zip
+eksctl_Linux_amd64.tar.gz
+main
